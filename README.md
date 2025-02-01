@@ -1,7 +1,9 @@
-# Tauri + React
+# YTDT GUI
 
-This template should help get you started developing with Tauri and React in Vite.
+A wrapper for [YTDT](https://github.com/posaidon09/ytdt) written with Tauri and React
+![A screenshot of YTDT-GUI](https://i.postimg.cc/Hs1jmZWz/image.png)
 
-## Recommended IDE Setup
+## Installation
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+If you'd like to build from source then follow [Tauri's guide for app distribution](https://v2.tauri.app/distribute/)
+or if you just want the executable then check [the releases tab](https://github.com/posaidon09/ytdt-gui/releases)
