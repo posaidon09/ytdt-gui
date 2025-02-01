@@ -1,0 +1,43 @@
+{
+    "English": {
+        "url": "Video URL",
+        "path": "Download path",
+        "ext": "other",
+        "downloading": "Downloading",
+        "download": "Download",
+        "finished": "Download finished!",
+        "stage": {
+            "waiting": "waiting",
+            "Video": "Video",
+            "Audio": "Audio"
+        }
+    },
+    "Français": {
+        "url": "Lien de vidéo",
+        "path": "Dossier de téléchargement",
+        "ext": "autre",
+        "format": "Extension de fichier",
+        "downloading": "Téléchargement",
+        "download": "Télécharger",
+        "finished": "Téléchargement fini!",
+        "stage": {
+            "waiting": "attendant",
+            "Video": "Vidéo",
+            "Audio": "Audio"
+        }
+    },
+    "العربية": {
+        "url": "رابط الفيديو",
+        "path": "مجلد التحميل",
+        "ext": "آخر",
+        "format": "امتداد الملف",
+        "downloading": "تحميل",
+        "download": "تحميل",
+        "finished": "انتهى التنزيل!",
+        "stage": {
+            "waiting": "انتظار",
+            "Video": "فيديو",
+            "Audio": "صوت"
+        }
+    }
+}

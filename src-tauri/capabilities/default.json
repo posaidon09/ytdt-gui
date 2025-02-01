@@ -7,8 +7,6 @@
 		"notification:allow-is-permission-granted",
 		"notification:default",
 		"dialog:allow-open",
-        "webview:allow-internal-toggle-devtools",
-        "webview:default",
 		{
 			"identifier": "shell:allow-execute",
 			"allow": [
