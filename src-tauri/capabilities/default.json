@@ -11,7 +11,7 @@
 			"identifier": "shell:allow-execute",
 			"allow": [
 				{
-					"name": "binaries/script",
+					"name": "binaries/downloaderScript",
 					"args": [
 						{
 							"validator": ".*"

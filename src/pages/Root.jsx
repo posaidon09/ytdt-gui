@@ -43,7 +43,7 @@ export default function Root() {
 		const args = [url, path, format];
 
             if (url && format && path) {
-                const command = Command.sidecar("binaries/script", args);
+                const command = Command.sidecar("binaries/downloaderScript", args);
                 const interval = setInterval(async () => {
                     try {
                         const req = await fetch("http://localhost:5100");
